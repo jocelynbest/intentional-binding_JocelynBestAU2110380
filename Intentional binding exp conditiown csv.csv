@@ -1,0 +1,13 @@
+﻿delay,angle,condition
+0.1,120,unexp
+0.5,120,unexp
+0.9,120,unexp
+0.1,45,exp
+0.5,45,exp
+0.9,45,exp
+0.1,45,exp
+0.5,45,exp
+0.9,45,exp
+0.1,45,exp
+0.5,45,exp
+0.9,45,exp
